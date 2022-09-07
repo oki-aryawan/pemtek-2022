@@ -6,7 +6,7 @@ umur = input('Pilih kode umur tanaman: ')
 umur = umur.upper()
 waktu = input('Pilih kode waktu siram: ')
 air = 0
-status =''
+status = ''
 
 if umur == 'A':
     status = '1-20 hari'
