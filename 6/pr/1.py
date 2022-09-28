@@ -2,9 +2,9 @@ x = int(input('Input: '))
 
 
 def faktorial(nilai):
-    if nilai > 2:
+    if nilai > 1:
         return x * faktorial(nilai - 1)
-    return 2
+    return 1
 
 
 print(f'Nilai {x}!: {faktorial(x)}')
