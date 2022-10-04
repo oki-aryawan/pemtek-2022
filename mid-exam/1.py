@@ -2,6 +2,10 @@
 Soal Tipe B Ujian Tengah Semester
 Mata Kuliah Pemrograman Teknik 2022/2023
 copied by: Oki Aryawan
+
+
+Tuliskan output dari kode di bawah ini!
+
 """
 
 n = 0
